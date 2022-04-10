@@ -5,7 +5,10 @@ Airbnb business has been negatively affected by the COVID-19 pandemic due to the
 
 # Assumption
 
-Number of reviews are considered as number of bookings made assuming they are equivalent to each other.
+- It is assumed that prior to pandemic period the business was achieving the desired revenue and strategies are to be decided assuming that the number of travels will increase post pandemic.
+- It is assumed that the company wants to stick to the existing business territories in NYC.
+- Number of reviews are considered as number of bookings made assuming they are equivalent to each other.
+
 
 # Data Cleaning
 
@@ -17,6 +20,7 @@ Number of reviews are considered as number of bookings made assuming they are eq
 •	neighbourhood = Sea gate, very high price difference compared to the other properties in that area.
 
 - Categorization of numerical variable : We have categorized the ‘Price’ variable to create bins.
+
 
 # Visualizations and Insights
 
@@ -85,6 +89,11 @@ The graphs were plotted using Tableau to draw insights and recommendations.
 - Assuming that post COVID-19 people will prefer to book properties to stay for longer duration, the ones with minimum 30-night stays and with lower price can be acquired to grow business.
 
 
+# Additional Recommendations
+
+- Properties near the airports and stations can be acquired as they would provide less travel distance for the customers which can be used as a promotional strategy.
+- Properties in areas like Bronx and Queens where demand is good but price is still low, can be promoted to attract more tourists.
+- Areas like Manhattan where entire apt cost is high, more private rooms can be acquired to provide options for the customers.
 
 
 
